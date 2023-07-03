@@ -12,10 +12,15 @@ const addDays = (date, days) => {
   return result;
 };
 
+let devMode = false;
+let origin = devMode
+  ? "http://localhost:4200"
+  : "https://main--endearing-pastelito-1dcafa.netlify.app";
+
 app.use(bodyParser.json());
 app.use(
   cors({
-    origin: "http://localhost:4200",
+    origin,
   })
 );
 
