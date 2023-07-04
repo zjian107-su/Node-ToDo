@@ -15,7 +15,7 @@ const addDays = (date, days) => {
 let devMode = false;
 let origin = devMode
   ? "http://localhost:4200"
-  : "https://main--endearing-pastelito-1dcafa.netlify.app";
+  : "https://endearing-pastelito-1dcafa.netlify.app";
 
 app.use(bodyParser.json());
 app.use(
