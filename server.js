@@ -15,7 +15,7 @@ const addDays = (date, days) => {
 let devMode = false;
 let origin = devMode
   ? "http://localhost:4200"
-  : "https://angular-daniel-todo.netlify.app/";
+  : "https://angular-daniel-todo.netlify.app";
 
 app.use(bodyParser.json());
 app.use(
