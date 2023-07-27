@@ -1,10 +1,12 @@
 # 🍉 Node ToDo
 
 ## 🫐 Backend API URL
-https://stark-lowlands-83242-5014e4d4a6ea.herokuapp.com
+[**live Demo for Back-End**](https://stark-lowlands-83242-5014e4d4a6ea.herokuapp.com)
 
 ## 🍇 Frontend URL
-https://endearing-pastelito-1dcafa.netlify.app/
+[**live Demo for Front-End**](https://angular-daniel-todo.netlify.app)
+
+[**Github Link**](https://github.com/zjian107-su/Angular-ToDo)
 
 ## 🍌 Main APIs
 - [x] Create a new task
